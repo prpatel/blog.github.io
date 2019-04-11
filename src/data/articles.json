@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Hacker's guide to setting up the Finder on MacOS",
+    "author": "prpatel",
+    "category": "Tips n Tricks",
+    "hero": "https://www.macobserver.com/wp-content/uploads/2016/09/finder-list-el-capitan-1200x750.jpg"
+  },
+  {
+    "title": "Going Green with Java and #IoT",
+    "author": "prpatel",
+    "category": "Java",
+    "hero": "https://cdn.datafloq.com/cache/blog_pictures/878x531/java_for_iot.png"
+  },
+  {
+    "title": "Interactive Notebooks in Apache Zeppelin",
+    "author": "prpatel",
+    "prominent": true,
+    "hero": "https://zeppelin.apache.org/assets/themes/zeppelin/img/notebook.png"
+  },
+  {
+    "title": "Serverless Architecture & Serviceful",
+    "author": "prpatel",
+    "category": "Serverless & Cloud",
+    "hero": "https://techzoom.org/uploads//2018/11/ibm-cloud-functions-logo-640x400.jpg"
+  }
+]
