@@ -20,7 +20,7 @@
               Subscribe
             </base-subheading>
             <p>
-              Follow me on <a href="https://twitter.com/prpatel/">Twitter </a>to get see announcements of new blog posts.
+              Follow me on <a href="https://twitter.com/prpatel/">Twitter </a>to get announcements of new blog posts.
             </p>
 
 
